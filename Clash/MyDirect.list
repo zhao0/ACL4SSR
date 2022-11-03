@@ -1,1 +1,7 @@
+# 直连
 
+#DOMAIN-SUFFIX,cn
+#DOMAIN,
+#DOMAIN-KEYWORD,
+
+DOMAIN,git.klook.io
